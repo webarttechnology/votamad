@@ -1,0 +1,10 @@
+[25-Jul-2023 11:58:58 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/webbersunited/public_html/cms/voltamed/wp-content/themes/Voltamed/service.php on line 71
+[25-Jul-2023 11:59:28 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/webbersunited/public_html/cms/voltamed/wp-content/themes/Voltamed/service.php on line 71
+[25-Jul-2023 11:59:50 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/webbersunited/public_html/cms/voltamed/wp-content/themes/Voltamed/service.php on line 64
+[25-Jul-2023 12:00:03 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/webbersunited/public_html/cms/voltamed/wp-content/themes/Voltamed/service.php on line 64
+[25-Jul-2023 12:00:06 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/webbersunited/public_html/cms/voltamed/wp-content/themes/Voltamed/service.php on line 64
+[27-Jul-2023 10:12:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/webbersunited/public_html/cms/voltamed/wp-content/themes/Voltamed/covid.php on line 33
+[28-Jul-2023 10:20:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/webbersunited/public_html/cms/voltamed/wp-content/themes/Voltamed/single.php on line 74
+[28-Jul-2023 10:20:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/webbersunited/public_html/cms/voltamed/wp-content/themes/Voltamed/single.php on line 71
+[28-Jul-2023 10:21:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/webbersunited/public_html/cms/voltamed/wp-content/themes/Voltamed/single.php on line 75
+[24-Nov-2023 06:10:00 UTC] PHP Parse error:  Unclosed '{' on line 171 in /home/webbersunited/public_html/cms/voltamed/wp-content/themes/Voltamed/page-home.php on line 215
